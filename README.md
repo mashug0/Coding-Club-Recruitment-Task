@@ -13,7 +13,8 @@ built a classification model to predict relationship status and analyzed the und
 
 | File | Description |
 |------|-------------|
-| `Dataset.csv` | Cleaned student dataset |
+| `Dataset\\Dataset.csv` | Cleaned student dataset |
+| `Dataset\\Dataset.docx`| Description of the dataset used|
 | `source.ipynb` | Code for Levels 1–5 |
 | `README.md` | Project summary |
 ---
